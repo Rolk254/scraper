@@ -1,0 +1,278 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #141414;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative; /* Asegura que los elementos absolutamente posicionados se alineen con el body */
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.episode-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    width: 80%;
+    margin: 20px 0;
+}
+
+.episode {
+    position: relative;
+    text-align: center;
+}
+
+.episode-title {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.episode img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.episode img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.episode-checkbox {
+    position: absolute;
+    top: 5px; /* Ajusta según el tamaño del ícono y el diseño */
+    left: 5px; /* Ajusta según el tamaño del ícono y el diseño */
+    width: 16px; /* Reduce el tamaño del checkbox */
+    height: 16px; /* Reduce el tamaño del checkbox */
+    appearance: none;
+    background-color: #ffffff;
+    border-radius: 50%;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s;
+    z-index: 3;
+}
+
+.episode-checkbox:checked {
+    background-color: #ff0000;
+    border: 2px solid #ff0000;
+}
+
+.episode-checkbox:checked::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 8px; /* Ajusta el tamaño del ícono dentro del checkbox */
+    height: 8px; /* Ajusta el tamaño del ícono dentro del checkbox */
+    background-size: contain;
+    transform: translate(-50%, -50%);
+}
+
+.watched-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 5px;
+    height: 5px;
+    background-image: url('visto.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: none;
+    z-index: 2;
+}
+
+.episode-checkbox:checked ~ .watched-overlay {
+    display: block;
+}
+
+.episode-popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+}
+
+.episode-popup.active {
+    display: flex;
+}
+
+.popup-content {
+    position: relative;
+    width: 80%;
+    max-width: 800px;
+    height: 80%;
+    background-color: #000;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.episode-popup video,
+.episode-popup iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #ff0000;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    z-index: 10000;
+}
+
+.close-btn:hover {
+    background-color: #cc0000;
+}
+
+.nav-btn {
+    position: fixed; /* Cambiado a fixed para que se mantengan en su lugar al hacer scroll */
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: none; /* Ocultar por defecto hasta que se necesite */
+    z-index: 10000;
+}
+
+.nav-btn:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.nav-btn.prev {
+    left: 10px;
+    top: 50%; /* Centrado verticalmente */
+    transform: translateY(-50%);
+}
+
+.nav-btn.next {
+    right: 10px;
+    top: 50%; /* Centrado verticalmente */
+    transform: translateY(-50%);
+}
+
+.video-controls {
+    position: absolute;
+    bottom: 10px; /* Posiciona los controles 10px por encima del borde inferior del video */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semi-transparente */
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.video-controls button {
+    background-color: #444;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin: 0 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.video-controls button:hover {
+    background-color: #666;
+}
+
+.seek-backward,
+.seek-forward {
+    position: absolute;
+    bottom: 60px; /* Mueve los botones 60px arriba del borde inferior del video */
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    z-index: 10000;
+    display: block;
+}
+
+.seek-backward {
+    left: 10px;
+}
+
+.seek-forward {
+    right: 10px;
+}
+
+.loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh; /* Ajusta según sea necesario */
+    position: fixed; /* Para que esté sobre el contenido */
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8); /* Fondo negro con opacidad para cubrir todo el contenido */
+    z-index: 1000; /* Asegúrate de que el contenedor de carga esté sobre todos los demás elementos */
+}
+
+.loading-container img {
+    width: 100px; /* Ajusta el tamaño del GIF */
+    height: 100px;
+}
+
+/* Asegúrate de ocultar la cuadrícula de episodios inicialmente */
+.episode-grid-container {
+    display: none;
+}
+
+.episode-grid {
+    background-color: #000; /* Fondo negro para la cuadrícula de episodios mientras se carga */
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.timer-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: white;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.timer-overlay.show {
+    opacity: 1;
+}
