@@ -1,0 +1,661 @@
+user_id: 1, episode_number: 5, current_time: 4.995247
+user_id: 1, episode_number: 5, current_time: 531.950321
+user_id: 1, episode_number: 5, current_time: 534.327467
+user_id: 1, episode_number: 1, current_time: 0.582853
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 331.281467
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 656.675608
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 661.407568
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 9.706527
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 8.913864
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 9.500118
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 9.788155
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 10.181976
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.156112
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.419992
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.683885
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.947738
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.223246
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.488309
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.751106
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.016834
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.281021
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.544936
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.810371
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.073216
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.340275
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.604594
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.884679
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.147309
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.411099
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.670446
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.94174
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 5.204271
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 5.46749
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 5.730512
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 5.996004
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.26037
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.531198
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.80341
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 7.06782
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 7.330983
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 7.597169
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 7.710798
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 7.710798
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.16512
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.435953
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.695994
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.963774
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.238596
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.504241
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.769046
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.031761
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.290652
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.56081
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.824019
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.088526
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.351713
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.627672
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.630574
+user_id: 1, episode_number: 1, current_time: 3.630574
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.892948
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.162476
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.426329
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.690692
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.768827
+user_id: 1, episode_number: 1, current_time: 4.768827
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.183035
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.44757
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.718466
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.982276
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.248331
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.511314
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.774285
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.039889
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.318373
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.572155
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.844447
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.971713
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.971713
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.244253
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.516021
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.779848
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.043877
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.315039
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.581742
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.847912
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 5.110475
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 5.375345
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 5.636351
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 5.915511
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.181395
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.461406
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.723441
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.990051
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 7.036045
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.169257
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.433119
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.70202
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.967218
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.232193
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.510082
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.780527
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.05181
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.315246
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.581597
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.845381
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.107628
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.372437
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.637901
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.902254
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.095748
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.095748
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.165063
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.428955
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.692838
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.956813
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.230495
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.495816
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.760386
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.027077
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.290069
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.552659
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.817285
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.096394
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.360003
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.445791
+user_id: 1, episode_number: 1, current_time: 3.445791
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.714393
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.975377
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.03292
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.308404
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.571739
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.842625
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.944774
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.18269
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.446574
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.717297
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 0.981199
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.246903
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.509052
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 1.779954
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.051407
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.312827
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.571777
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 2.84809
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.11133
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.375455
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.640344
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 3.903155
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.165203
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.442488
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.708115
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 4.970041
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 5.233414
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 5.498175
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 5.762631
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.039451
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.307673
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.571003
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.690264
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
+user_id: 1, episode_number: 1, current_time: 6.690264
+Error en la preparación de la consulta: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time) 
+        VALUES (?, ?, 0, ?) 
+        ON DUPLICATE KEY UPDATE...' at line 1
